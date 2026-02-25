@@ -13,7 +13,7 @@ El atajo del teclado 'Ctrl + Alt + F' me ha ayudado a formatear el código de ma
 
 Y gracias a esto me di cuenta que no edité el `README.md` del ejercicio anterior, así que aprovecho para editarlo ahora y explicar un poco lo que he aprendido con este ejercicio.
 
-Gracias a las exposiciones he ido añadiendo poco a poco cosas que no sabía como por ejemplo el `box-shadow` para darle un poco de profundidad a las tarjetas, o el `text-shadow` para darle un poco de vida a los textos, también he aprendido a usar `flexbox` para centrar los elementos y hacer que se vean bien en diferentes tamaños de pantalla.
+Gracias a las exposiciones he ido añadiendo poco a poco cosas que no sabía como por ejemplo el `box-shadow` para darle un poco de profundidad a las tarjetas, o el @media-quire, también he aprendido a usar `flexbox` para centrar los elementos y hacer que se vean bien en diferentes tamaños de pantalla.
 <hr />
 He usado la IA, ChatGPT y ChatGitHub, para ayudarme a entender mejor el ejercicio y a resolver algunos problemas. Hubo un momento en el que no me funcionaba nada en Css y resulta que era por estar mal cerrado una de las etiquetas, ahí fue cuando decidí separar bien las secciones de HTML. 
 <hr />
