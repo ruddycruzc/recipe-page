@@ -37,6 +37,9 @@ img{
     padding: 2rem 1.5rem;
 }
 
+.recipe-description{
+    padding: 5%;
+}
 h1{
  font-family: 'YoungSerif', serif;
     color: hsl(24, 5%, 18%);
@@ -57,7 +60,7 @@ font-family: 'YoungSerif', serif;
     background-color: hsl(330, 100%, 98%);
     padding: 1.5rem;
     border-radius: 1.25rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 
@@ -106,6 +109,7 @@ hr {
     width: 100%;
     border-collapse: collapse;
     margin-top: 1rem;
+    
 }
 
 .nutrition tr {
@@ -125,7 +129,7 @@ hr {
 }
 
 .nutrition td:last-child {
-    text-align: right;
+    text-align: center;
     padding-right: 1rem;
     color: hsl(14, 45%, 36%);
     font-weight: 700;
